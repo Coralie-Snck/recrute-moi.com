@@ -1,0 +1,26 @@
+header {
+    background: linear-gradient(180deg, #0A2239 70.75%, rgba(10, 34, 57, 0.86) 88.36%);
+    box-shadow: 0px 30px 15px 0px rgba(10, 34, 57, 0.30);
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    width: 100vw;
+    box-sizing: border-box;
+}
+#Titre1 {
+    text-align: center;
+    color: #0A2239;
+    font-family: Inria Serif Regular;
+}
+
+#conteneur {
+ 
+   display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: flex-end;
+}
